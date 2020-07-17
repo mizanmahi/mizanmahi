@@ -1,16 +1,18 @@
-### Hi I am Mizanur Rahman 👋
+# Hi I'm Mizanur Rahman :rocket:
 
-<!--
-**mizanmahi/mizanmahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-@AroraShreshth-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AroraShreshth)](https://twitter.com/mizan__mahi) [![Linkedin Badge](https://img.shields.io/badge/-ShreshthArora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ShreshthArora/)](https://www.linkedin.com/in/mizan-mahi/) [![Instagram Badge](https://img.shields.io/badge/-@AroraShreshth-03a57a?style=flat-square&labelColor=white&logo=Instagram&link=https://instagram.com/AroraShreshth/)](https://www.instagram.com/mizan_mahi/)
+[![MAIL Badge](https://img.shields.io/badge/-hey@shreshtharora.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@shreshtharora.co)](mailto:mizanmahi24@gmail.com)
 
-Here are some ideas to get you started:
+A passionate👨 self-taught frontEnd engineer💻 from Bangladesh.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Website is [ShreshthArora.co](https://shreshtharora.co)
+
+### Languages I write in :pencil2:
+
+- Javascipt :eyes:
+- C 👌
+- C++ :smile:
+
+### Toys I Play with :flashlight:
+
+React | React Native | Node | Express | GraphQL
