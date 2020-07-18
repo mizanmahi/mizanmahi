@@ -5,7 +5,7 @@
 
 A passionate👨 self-taught frontEnd engineer💻 from Bangladesh.
 
-My Website is [ShreshthArora.co](https://shreshtharora.co)
+My Website is [mizanmahi](https://mizanmahi.github.io/me)
 
 ### Languages I write in :pencil2:
 
