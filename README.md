@@ -15,4 +15,4 @@ My Website is [mizanmahi](https://mizanmahi.github.io/me)
 
 ### Toys I Play with :flashlight:
 
-React | React Native | Node | Express | GraphQL
+React | React Native | Node | Express | GraphQL | Puppeteer
