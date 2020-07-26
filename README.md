@@ -9,9 +9,9 @@ My Website is [mizanmahi](https://mizanmahi.github.io/me)
 
 ### Languages I write in :pencil2:
 
-- Javascipt :eyes:
+- Javascipt 😍
 - C 👌
-- C++ :smile:
+- C++ 😎
 
 ### Toys I Play with :flashlight:
 
