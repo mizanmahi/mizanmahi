@@ -11,8 +11,8 @@ My Website is [mizanmahi](https://mizanmahi.github.io/me)
 
 - Javascipt 😍
 - C 👌
-- C++ 😎
+- C++ 🔥
 
-### Toys I Play with :flashlight:
+### Toys I Play with 👨‍💻
 
 React | React Native | Node | Express | GraphQL | Puppeteer
