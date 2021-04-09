@@ -14,7 +14,7 @@ One of my work isnpired by Jonas [shomin](https://mizanmahi.github.io/shomin)
 
 - Javascipt 😍
 - C 👌
-- C++ 🔥
+- Python 🔥
 
 ### Toys I Play with 👨‍💻
 
