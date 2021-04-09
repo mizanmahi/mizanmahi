@@ -6,6 +6,7 @@
 A passionate👨 self-taught frontEnd engineer💻 from Bangladesh.
 
 My Website is [mizanmahi](https://mizanmahi.github.io/me)
+One of my work isnpired by jonas [shomin](https://mizanmahi.github.io/shomin)
 
 ### Languages I write in :pencil2:
 
