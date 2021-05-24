@@ -18,4 +18,4 @@ One of my work isnpired by Jonas [shomin](https://mizanmahi.github.io/shomin)
 
 ### Toys I Play with 👨‍💻
 
-React | React Native | Node | Express | GraphQL | Puppeteer
+React | React Native | Redux | Node | Express | GraphQL | Puppeteer
