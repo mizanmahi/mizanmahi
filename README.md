@@ -14,8 +14,7 @@ One of my work isnpired by Jonas [shomin](https://mizanmahi.github.io/shomin)
 
 - Javascipt 😍
 - C 👌
-- Python 🔥
 
 ### Toys I Play with 👨‍💻
 
-React | React Native | Redux | Node | Express | GraphQL | Puppeteer
+React | React Native | Redux | Node | Express | Mongo | Puppeteer
