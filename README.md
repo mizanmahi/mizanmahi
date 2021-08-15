@@ -13,8 +13,8 @@ One of my work isnpired by Jonas [shomin](https://mizanmahi.github.io/shomin)
 ### Languages I write in :pencil2:
 
 - Javascipt 😍
-- C 👌
+- TypeScript 👌
 
 ### Toys I Play with 👨‍💻
 
-React | React Native | Redux | Node | Express | Mongo | Puppeteer
+React | Redux | Node | Express | Mongo | TypeScript | Puppeteer
