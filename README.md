@@ -15,4 +15,4 @@ One of my work isnpired by Jonas [shomin](https://mizanmahi.github.io/shomin)
 
 ### Toys I Play with 👨‍💻
 
-React | Redux | Node | Express | Mongo | TypeScript | Puppeteer
+React | Redux | Node | Express | Mongo | Firebase | TypeScript | Puppeteer
