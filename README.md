@@ -6,8 +6,6 @@
 A passionate👨 self-taught web engineer💻 from Bangladesh.
 
 
-One of my work isnpired by Jonas [shomin](https://mizanmahi.github.io/shomin)
-
 ### Languages I write in :pencil2:
 
 - Javascipt 😍
