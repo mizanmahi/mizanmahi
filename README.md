@@ -10,7 +10,8 @@ A passionate👨 self-taught web engineer💻 from Bangladesh.
 
 - Javascipt 😍
 - TypeScript 👌
+- Go
 
 ### Toys I Play with 👨‍💻
 
-React | Redux | Node | Express | Mongo | Firebase | TypeScript | Puppeteer
+React | NextJS | Redux | Node | Express | Mongo | Firebase  | Puppeteer
