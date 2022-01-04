@@ -14,4 +14,6 @@ A passionate👨 self-taught web engineer💻 from Bangladesh.
 
 ### Toys I Play with 👨‍💻
 
-React | NextJS | Redux | Node | Express | Mongo | Firebase  | Puppeteer
+ReactJS | NextJS | Redux 
+Material UI | Bootstrap | TailwindCSS | Styled Components
+Node | Express | MongoDB | Firebase  | Puppeteer
