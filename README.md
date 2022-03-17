@@ -14,8 +14,8 @@ An Aspiring Full-stack Engineer From Bangladesh 💻
 
 ### Toys I Play with 👨‍💻
 
-👁‍🗨 ReactJS | NextJS | Redux 
+👁‍🗨 ReactJS | NextJS | Redux | React Router
 
-💅🏻 Material UI | Bootstrap | TailwindCSS | Styled Components
+💅🏻 Material UI | Bootstrap | TailwindCSS | Styled Components | Sass
 
 🚂 Node | Express | MongoDB | Firebase  | Puppeteer
