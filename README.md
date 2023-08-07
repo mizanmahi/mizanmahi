@@ -6,9 +6,9 @@
 An Aspiring Full-stack Engineer From Bangladesh 💻
 
 
-### Languages I write in :pencil2:
+### Languages I write in pencil2:
 
-- Javascipt 😍
+- Javascript 😍
 - TypeScript 👌
 - Go
 
@@ -18,7 +18,11 @@ An Aspiring Full-stack Engineer From Bangladesh 💻
 
 💅🏻 Material UI | Bootstrap | TailwindCSS | Styled Components | Sass
 
-🚂 Node | Express | MongoDB | Firebase  | Puppeteer
+🚂 Node | Express | MongoDB | Postgres | Prisma | Firebase  | Puppeteer
+
+🧪 Jest | Vitest | React Testing Library 
+
+
 
 
 
