@@ -20,7 +20,7 @@ An Aspiring Full-stack Engineer From Bangladesh 💻
 
 🚂 Node | Express | MongoDB | Postgres | Prisma | Firebase  | Puppeteer
 
-🧪 Jest | Vitest | SuperTest | React Testing Library 
+🧪 Jest | Vitest | SuperTest | React Testing Library🐙 
 
 
 
