@@ -18,7 +18,9 @@ An Aspiring Full-stack Engineer From Bangladesh 💻
 
 💅🏻 Material UI | Bootstrap | TailwindCSS | Styled Components | Sass
 
-🚂 Node | Express | MongoDB | Postgres | Prisma | Firebase  | Puppeteer
+🚂 Node | Express  | Firebase  | Puppeteer
+
+🛢️ MongoDB | Mongoose | Postgres | Prisma
 
 🧪 Jest | Vitest | SuperTest | React Testing Library🐙 
 
