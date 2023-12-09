@@ -6,11 +6,11 @@
 An Aspiring Full-stack Engineer From Bangladesh 💻
 
 
-### Languages I write in pencil2:
+### Languages I write in ✏️:
 
 - Javascript 😍
 - TypeScript 👌
-- Go
+- Go 💪
 
 ### Toys I Play with 👨‍💻
 
