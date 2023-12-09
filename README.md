@@ -22,7 +22,7 @@ An Aspiring Full-stack Engineer From Bangladesh 💻
 
 🛢️ MongoDB | Mongoose | Postgres | Prisma
 
-🧪 Jest | Vitest | SuperTest | React Testing Library🐙 
+🧪 Jest | Vitest | SuperTest | React Testing Library
 
 
 
