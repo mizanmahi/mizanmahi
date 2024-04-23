@@ -43,3 +43,5 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mizanmahi&show_icons=true&locale=en&layout=compact" alt="mizanmahi" /> <br>
 
 <p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=mizanmahi&show_icons=true&locale=en" alt="mizanmahi" /></p>
+
+<a href="https://gitroll.io/profile/ulqHmgNU8VhU5vHWmFNOA4Rtr3d43" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ulqHmgNU8VhU5vHWmFNOA4Rtr3d43" alt="GitRoll Profile Badge"/></a>
