@@ -20,12 +20,12 @@
 
 ###
 
-I'm a passionate web engineer, mentor and IT enthusiast from Bangladesh .
+<h3 align="left">I'm a passionate web engineer, mentor and IT enthusiast from Bangladesh.</h3>
 
 - 🔭 I’m working as **Mentor (Apollo L2) at [Programming Hero](https://github.com/programmingHero1/)**
 - 📚 I'm currently learning **Golang, Postgres and NextJs**
 - 📝 I regularly write articles on [Medium](https://medium.com/@mizanmahi24)
-- ⚡ Fun fact: **Experienced the frustration of CSS behaving like a stubborn child – sometimes it listens, sometimes it just throws a tantrum!**
+- ⚡ Fun fact: **Can wrestle a bug in Javascript, but CSS makes me cry.**
 
 ###
 
