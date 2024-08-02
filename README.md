@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mizanur Rahman</h1>
+<h1 align="center">Hi 👋, I'm Mizanur Rahman Mahi</h1>
 
 ###
 
