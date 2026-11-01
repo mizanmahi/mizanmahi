@@ -23,7 +23,7 @@
 <h4 align="left">I'm a passionate web engineer, mentor and IT enthusiast from Bangladesh.</h4>
 
 - 🔭 I’m working as a **Wev Developer L2 (Neptune) & Mentor (Next Level Web Dev Bootcamp) at [Programming Hero](https://github.com/programmingHero1/)**
-- 📚 I'm currently learning **Postgres and Cloud Computing with AWS**
+- 📚 I'm currently learning **Golang and Networking**
 - 📝 I regularly write articles on [Medium](https://medium.com/@mizanmahi24)
 - ⚡ Fun fact: **Can wrestle a bug in Javascript, but CSS makes me 😢.**
 
